@@ -1,0 +1,73 @@
+      h1{
+         font: normal small-caps normal 24px/4 center;
+         text-align: center;
+      }
+      div{
+         margin: 70px auto;
+         width: 600px;
+      }
+      table{
+         width: 100%;
+         border-collapse: collapse;
+      }
+      img{
+   		width: 50px;
+   		border: 1px solid black;
+   	}
+   	td{
+   		border: 3px solid green;
+   		padding: 5px 3px 5px 3px;
+         text-align: center;
+   	}
+      th{
+         border: 5px solid green;
+         font: bold italic 1.5em/200% Georgia, "Times New Roman", serif;
+      }
+   	#Talco{
+   		color: black;
+   		background-color: #ffffff;
+   	}
+   	#Yeso{
+   		color: black;
+   		background-color: #eeeeee;
+   	}
+   	#Calcita{
+   		color: black;
+   		background-color: #cccccc;
+   	}
+   	#Fluorita{
+   		color: black;
+   		background-color: #9c9c9c;
+   	}
+   	#Apatito{
+   		color: black;
+   		background-color: #808080;
+   	}
+   	#Ortosa{
+   		color: white;
+   		background-color: #656565;
+   	}
+   	#Cuarzo{
+   		color: white;
+   		background-color: #4c4c4c;
+   	}
+   	#Topacio{
+   		color: white;
+   		background-color: #333333;
+   	}
+   	#Corindón{
+   		color: white;
+   		background-color: #1d1d1d;
+   	}
+   	#Diamante{
+   		color: white;
+   		background-color: #000000;
+   	}
+   	.position{
+   		font: bold italic 1.5em/200% Georgia, "Times New Roman", serif;
+  		line-height: 2;
+   	}
+      .mineral_name{
+         font: bold 15px/1 Georgia, "Times New Roman", serif;
+         line-height: 1;
+      }
